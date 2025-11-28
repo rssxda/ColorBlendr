@@ -224,7 +224,6 @@ object OverlayManager {
                             // QS top part color
                             setColor("surface_header_dark_sysui", Color.BLACK)
                             // A14 notification scrim color
-                            setColor("system_surface_dim_dark", Color.BLACK)
                             setColor(systemPaletteNames[3][11], Color.BLACK)
                             setColor(systemPaletteNames[4][11], Color.BLACK)
                         }
